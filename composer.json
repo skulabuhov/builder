@@ -1,0 +1,15 @@
+{
+    "name": "work/factory_method",
+    "authors": [
+        {
+            "name": "Sergey Kulabuhov",
+            "email": "kulabuhov.sergey@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {}
+}
